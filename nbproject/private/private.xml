@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/web/show_blog_page.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/web/js/js.js</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/src/java/com/tech/blog/dao/LikeDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/src/java/com/texh/blog/servlets/LikeServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/src/java/com/tech/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/web/laod_post.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/firstproject/src/java/com/tech/blog/entities/Category.java</file>
+        </group>
+    </open-files>
+</project-private>
